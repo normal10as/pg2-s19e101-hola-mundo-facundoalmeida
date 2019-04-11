@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e101-hola-mundo-facundoalmeida\holamundoo\holamundoo\bin\Debug\netcoreapp2.2\holamundoo.deps.json
+C:\Users\Facu\source\repos\pg2-s19e101-hola-mundo-facundoalmeida\holamundoo\holamundoo\bin\Debug\netcoreapp2.2\holamundoo.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e101-hola-mundo-facundoalmeida\holamundoo\holamundoo\bin\Debug\netcoreapp2.2\holamundoo.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e101-hola-mundo-facundoalmeida\holamundoo\holamundoo\bin\Debug\netcoreapp2.2\holamundoo.dll
+C:\Users\Facu\source\repos\pg2-s19e101-hola-mundo-facundoalmeida\holamundoo\holamundoo\bin\Debug\netcoreapp2.2\holamundoo.pdb
+C:\Users\Facu\source\repos\pg2-s19e101-hola-mundo-facundoalmeida\holamundoo\holamundoo\obj\Debug\netcoreapp2.2\holamundoo.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\pg2-s19e101-hola-mundo-facundoalmeida\holamundoo\holamundoo\obj\Debug\netcoreapp2.2\holamundoo.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e101-hola-mundo-facundoalmeida\holamundoo\holamundoo\obj\Debug\netcoreapp2.2\holamundoo.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e101-hola-mundo-facundoalmeida\holamundoo\holamundoo\obj\Debug\netcoreapp2.2\holamundoo.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e101-hola-mundo-facundoalmeida\holamundoo\holamundoo\obj\Debug\netcoreapp2.2\holamundoo.dll
+C:\Users\Facu\source\repos\pg2-s19e101-hola-mundo-facundoalmeida\holamundoo\holamundoo\obj\Debug\netcoreapp2.2\holamundoo.pdb
