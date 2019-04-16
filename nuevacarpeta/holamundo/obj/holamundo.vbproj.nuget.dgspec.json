@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Facu\\Desktop\\pg2-s19e101-hola-mundo-facundoalmeida\\holamundoo\\holamundoo\\holamundoo.vbproj": {}
+    "C:\\Users\\Facu\\Desktop\\pg2-s19e101-hola-mundo-facundoalmeida\\nuevacarpeta\\holamundo\\holamundo.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Facu\\Desktop\\pg2-s19e101-hola-mundo-facundoalmeida\\holamundoo\\holamundoo\\holamundoo.vbproj": {
+    "C:\\Users\\Facu\\Desktop\\pg2-s19e101-hola-mundo-facundoalmeida\\nuevacarpeta\\holamundo\\holamundo.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Facu\\Desktop\\pg2-s19e101-hola-mundo-facundoalmeida\\holamundoo\\holamundoo\\holamundoo.vbproj",
-        "projectName": "holamundoo",
-        "projectPath": "C:\\Users\\Facu\\Desktop\\pg2-s19e101-hola-mundo-facundoalmeida\\holamundoo\\holamundoo\\holamundoo.vbproj",
+        "projectUniqueName": "C:\\Users\\Facu\\Desktop\\pg2-s19e101-hola-mundo-facundoalmeida\\nuevacarpeta\\holamundo\\holamundo.vbproj",
+        "projectName": "holamundo",
+        "projectPath": "C:\\Users\\Facu\\Desktop\\pg2-s19e101-hola-mundo-facundoalmeida\\nuevacarpeta\\holamundo\\holamundo.vbproj",
         "packagesPath": "C:\\Users\\Facu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Facu\\Desktop\\pg2-s19e101-hola-mundo-facundoalmeida\\holamundoo\\holamundoo\\obj\\",
+        "outputPath": "C:\\Users\\Facu\\Desktop\\pg2-s19e101-hola-mundo-facundoalmeida\\nuevacarpeta\\holamundo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
